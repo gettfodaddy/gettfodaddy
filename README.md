@@ -8,7 +8,7 @@ A little information about me:
 👯 I’m looking to collaborate on C/C++
 🤔 I’m looking for help with some leetcode/codeforces tasks
 💬 Ask me about basic algorithms, data structures (well, I'll try to answer)
-📫 How to reach me: @marlowxrd (telegram)
+📫 How to reach me: @gettfodaddy (telegram)
 😄 Pronouns: he/him
 ⚡ Fun fact: When I'm passionate about what I'm doing, I start to fade into time, lmao
 My goal is to become a truly qualified specialist in the direction I have chosen, to gain incomparable experience and knowledge that will help me climb one step higher towards my dream.
