@@ -5,7 +5,9 @@ I got acquainted with the IT world in my school days. Since then, I have been st
 A little information about me:
 
 🔭 I’m currently working on improving my own skills
+
 🌱 I’m currently learning C/C++, Basic algorithms & data structures
+
 👯 I’m looking to collaborate on C/C++
 
 🤔 I’m looking for help with some leetcode/codeforces tasks
