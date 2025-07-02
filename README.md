@@ -1,11 +1,15 @@
 Hello there! There is something that I need to tell you about me 👨‍💻
+
 I got acquainted with the IT world in my school days. Since then, I have been striving for self-improvement, by absorbing new information and honing my skills in C/C ++ development.
 
 A little information about me:
 
 🔭 I’m currently working on improving my own skills
+
 🌱 I’m currently learning C/C++, Basic algorithms & data structures
+
 👯 I’m looking to collaborate on C/C++
+
 🤔 I’m looking for help with some leetcode/codeforces tasks
 💬 Ask me about basic algorithms, data structures (well, I'll try to answer)
 📫 How to reach me: @gettfodaddy (telegram)
